@@ -1,4 +1,4 @@
-# Object_Detection_Enhancement_with_RBG-D_Data
+# Object_Detection_Enhancement_with_RGB-D_Data
 **EK500_final  project**
 <br>
 Many image classification algorithms are based entirely on red-blue-green (RGB) images. These RGB images provide the appearance and texture of the object(s) to be classified. While RGB image classifiers present impressive results, adding depth information, in the form of RGB-D images, to the classifier yields even better results because it gives robust information about the shape, size and boundaries of the object(s). Our networks are based on  two separate networks, one for RGB image and one for depth image, both of which are joined together in the final layers.
